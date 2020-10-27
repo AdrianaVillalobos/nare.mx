@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Nare!"
 date:   2020-10-27 13:52:02 -0700
 categories: jekyll update
 ---
